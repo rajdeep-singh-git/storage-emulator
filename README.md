@@ -24,6 +24,3 @@ Storage Emulator:"firebase emulators:start \--only storage"
 
 Now you can see UI of emulators at http://localhost:4000 and your
 emulator would be running at http://localhost:9199
-
-You can copy working code of upload and downloading files to Emulator
-storage from below
