@@ -1,5 +1,5 @@
-Steps to setup Firebase Emulator for storage First create a project on
-firebase console
+### Steps to setup Firebase Emulator for storage 
+- First create a project on firebase console
 
 Set its location by clicking settings icon on right side of "Project
 Overview" in left panel and go to general tab, there is "Default GCP
